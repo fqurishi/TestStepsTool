@@ -1,0 +1,79 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-1f5f98320cc90e0a8cfc.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "TestStepsTool",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "TestStepsTool::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-TestStepsTool-Debug-9062c091f578f83e98cf.json",
+					"name" : "TestStepsTool",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "TestStepsTool_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-TestStepsTool_autogen-Debug-534fbba33f403592a5dc.json",
+					"name" : "TestStepsTool_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "TestStepsTool_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-TestStepsTool_autogen_timestamp_deps-Debug-0570cfc7bcde9fdc69cb.json",
+					"name" : "TestStepsTool_autogen_timestamp_deps",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "D:/QTProjects/TestStepsTool/build/Desktop_Qt_6_8_0_MinGW_64_bit-Debug",
+		"source" : "D:/QTProjects/TestStepsTool"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 7
+	}
+}

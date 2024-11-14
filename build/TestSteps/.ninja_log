@@ -1,0 +1,9 @@
+# ninja log v6
+4	558	7532511823334863	TestStepsTool_autogen/timestamp	4bd3cf95227ba5b6
+4	558	7532511823334863	TestStepsTool_autogen/mocs_compilation.cpp	4bd3cf95227ba5b6
+4	558	7532511823334863	D:/QTProjects/TestStepsTool/build/Desktop_Qt_6_8_0_MinGW_64_bit-Release/TestStepsTool_autogen/timestamp	4bd3cf95227ba5b6
+4	558	7532511823334863	D:/QTProjects/TestStepsTool/build/Desktop_Qt_6_8_0_MinGW_64_bit-Release/TestStepsTool_autogen/mocs_compilation.cpp	4bd3cf95227ba5b6
+564	3014	7532511823931655	CMakeFiles/TestStepsTool.dir/main.cpp.obj	a2333585e376ec85
+561	3216	7532511823902018	CMakeFiles/TestStepsTool.dir/TestStepsTool_autogen/mocs_compilation.cpp.obj	a7c2ded344133aa2
+566	3350	7532511823951875	CMakeFiles/TestStepsTool.dir/mainwindow.cpp.obj	49145cddf5465852
+3350	3542	7532511851794215	TestStepsTool.exe	4ffae410986af9a2
