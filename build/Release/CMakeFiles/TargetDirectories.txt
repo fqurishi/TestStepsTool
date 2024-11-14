@@ -1,9 +1,0 @@
-D:/QTProjects/TestStepsTool/build/Release/CMakeFiles/TestStepsTool.dir
-D:/QTProjects/TestStepsTool/build/Release/CMakeFiles/edit_cache.dir
-D:/QTProjects/TestStepsTool/build/Release/CMakeFiles/rebuild_cache.dir
-D:/QTProjects/TestStepsTool/build/Release/CMakeFiles/list_install_components.dir
-D:/QTProjects/TestStepsTool/build/Release/CMakeFiles/install.dir
-D:/QTProjects/TestStepsTool/build/Release/CMakeFiles/install/local.dir
-D:/QTProjects/TestStepsTool/build/Release/CMakeFiles/install/strip.dir
-D:/QTProjects/TestStepsTool/build/Release/CMakeFiles/TestStepsTool_autogen_timestamp_deps.dir
-D:/QTProjects/TestStepsTool/build/Release/CMakeFiles/TestStepsTool_autogen.dir
