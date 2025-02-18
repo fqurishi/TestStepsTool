@@ -11,10 +11,10 @@
 #include <QJsonArray>
 #include <QMessageBox>
 
-const QString AUTH_SERVER_URL = "http://76.29.169.184:1232/check-authorization";
-const QString EXECUTE_TEST_URL = "http://76.29.169.184:1232/execute-test";
-const QString GET_TEST_CASES_URL = "http://76.29.169.184:1232/get-test-cases";
-const QString GET_FOLDERS_URL = "http://76.29.169.184:1232/get-folders";
+const QString AUTH_SERVER_URL = "http://73.66.97.66:1232/check-authorization";
+const QString EXECUTE_TEST_URL = "http://73.66.97.66:1232/execute-test";
+const QString GET_TEST_CASES_URL = "http://73.66.97.66:1232/get-test-cases";
+const QString GET_FOLDERS_URL = "http://73.66.97.66:1232/get-folders";
 
 MainWindow::MainWindow(QWidget *parent)
     : QMainWindow(parent)

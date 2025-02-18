@@ -24,7 +24,7 @@
      </rect>
     </property>
     <property name="text">
-     <string>PushButton</string>
+     <string>Create Test Steps</string>
     </property>
    </widget>
    <widget class="QComboBox" name="folderDropdown">
